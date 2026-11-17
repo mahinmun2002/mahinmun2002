@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mahin Muntasim
 
-<!--
-**mahinmun2002/mahinmun2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical engineering undergraduate at MIST (2023–2027).
+I work on CFD, machine learning, and thermal energy storage.
 
-Here are some ideas to get you started:
+## Research
+- 3 peer-reviewed publications (1 first-author)
+- Ongoing: bio-inspired vortex generators for heat exchangers (CFD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Six-Cylinder Radial Engine](https://github.com/mahinmun2002/six-cylinder-radial-engine-solidworks) (SolidWorks)
+- [Arduino-Based Coolant Flow Monitoring](https://github.com/mahinmun2002/arduino-coolant-flow-monitoring)
+
+## Links
+- [Portfolio](https://mahin-muntasim-portfolio.mahinmun2002.chatgpt.site)
+- [Google Scholar](https://scholar.google.com/citations?user=Lz3IcZ4AAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/mahin-muntasim-21189628a/)
+- [ResearchGate](https://www.researchgate.net/profile/Mahin-Muntasim)
